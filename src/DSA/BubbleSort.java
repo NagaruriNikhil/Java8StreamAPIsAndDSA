@@ -6,6 +6,7 @@ public class BubbleSort {
 	{
 		int[] a= {3,4,2,5,1,4,8};
 		int s= a.length;
+
 		for(int i: a) {
 		System.out.print(i);
 		}
