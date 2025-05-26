@@ -1,4 +1,4 @@
-package PreFunctionalDemo;
+package JavaStreamApis;
 
 import java.util.Arrays;
 import java.util.List;
